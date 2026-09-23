@@ -20,7 +20,35 @@ AI-assisted development will be used during the project to improve productivity,
 
 ## Getting Started
 
-Project setup and installation instructions will be added as development progresses.
+This repository is in the initial setup phase. It does not yet include application source code or a `package.json`, so there is nothing to install or run.
+
+### Prerequisites
+
+- Git
+- Node.js (planned runtime; not required until application code is added)
+- A GitHub account
+- Cursor (optional; used for AI-assisted development on this project)
+
+### Clone the repository
+
+```bash
+git clone <repository-url>
+cd ai-dev-capstone
+```
+
+Replace `<repository-url>` with this project's GitHub clone URL.
+
+### Current repository layout
+
+```text
+.
+├── README.md      # Project overview
+├── CLAUDE.md      # Project instructions for AI-assisted development
+├── LICENSE        # MIT License
+└── .gitignore     # Ignores node_modules, .env, build output, and editor files
+```
+
+Install and run commands will be documented here when the repository includes runnable application code.
 
 ## Project Status
 
