@@ -34,6 +34,8 @@ Examples:
 - docs: update README
 - chore: update project configuration
 
+
+
 ## AI Assistant Guidelines
 
 Before making major changes, understand the existing project structure.
@@ -41,3 +43,7 @@ Before making major changes, understand the existing project structure.
 Prefer simple and maintainable solutions.
 
 Do not modify unrelated files.
+
+- Test changes before considering a task complete.
+
+- Keep changes focused on the requested task.
