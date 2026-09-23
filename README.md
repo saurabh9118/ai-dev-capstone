@@ -25,3 +25,13 @@ Project setup and installation instructions will be added as development progres
 ## Project Status
 
 Currently in the initial setup phase.
+
+## Future Goals
+
+- Build the capstone application step by step.
+
+- Practice AI-assisted development.
+
+- Maintain clean and readable code.
+
+- Use Git and GitHub for version control.
